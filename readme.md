@@ -1,4 +1,4 @@
-# Stage 10 - Front-end + Back-end
+# Stage 10 - Back-end
 
 ### Autenticação de Usuários
 
