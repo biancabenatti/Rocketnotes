@@ -17,20 +17,6 @@
 🚀 Disk Storage </br>
 🚀 Servindo arquivos
 
-### Integração front-end e back-end
-
-🚀 O que é API RESTful </br>
-🚀 Cors </br>
-🚀 Axios </br>
-🚀 Cadastro de usuários </br>
-🚀 Contextos </br>
-🚀 Criando contexto </br>
-🚀 Conceito de Hooks </br>
-🚀 Hook de Autenticação </br>
-🚀 Redirecionamento de Rotas </br>
-🚀 Conceito Local Storage </br>
-🚀 Utilizando Local Storage
-
 ### 🤔 O que aprendi após finalizar esse módulo?
 
 - [x] Autenticação;
